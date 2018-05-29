@@ -1,6 +1,6 @@
 {
   "name": "@r29/react-redux-custom-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple wrapper around react-redux to allow configuring and using connect with a custom store name.",
   "homepage": "https://github.com/emmenko/react-redux-custom-store",
   "author": "Nicola Molinari <emmenko@gmail.com>",
@@ -68,8 +68,14 @@
   "eslintConfig": {
     "extends": "airbnb",
     "rules": {
-      "semi": [ 2, "never" ],
-      "space-before-function-paren": [ 2, "always" ]
+      "semi": [
+        2,
+        "never"
+      ],
+      "space-before-function-paren": [
+        2,
+        "always"
+      ]
     }
   },
   "config": {
